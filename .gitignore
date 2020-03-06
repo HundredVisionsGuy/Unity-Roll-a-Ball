@@ -62,3 +62,6 @@ crashlytics-build.properties
 # Ignore ginormous files that aren't really needed
 *.psd
 *.tif
+
+# VS Code workspace
+.vscode/
